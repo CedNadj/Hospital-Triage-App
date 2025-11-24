@@ -31,12 +31,14 @@ The Hospital Triage App will provide an intuitive interface for both patients an
 ![alt text](image-6.png)
 
   - **Deep Bright Red (#B10000)**: Used exclusively for critical triage levels.
+
 ![alt text](image-8.png)
 
   - **Green (#3CB371)**: Used to signal successful actions and stable patient status.
 ![alt text](image-7.png)
 
   - **Yellow (#FFD700)**: Used for communicates caution.
+  
 ![alt text](image-9.png)
 
 ## App Components
