@@ -15,29 +15,29 @@ The Hospital Triage App will provide an intuitive interface for both patients an
 ## Colour Palette
 - **User Interface**:
   - **Calming Light Blue (#4F8CF7)**: Used for primary buttons and highlighs to create a reassuring, friendly environment.
-  ![alt text](image-2.png)
+![alt text](image-2.png)
 
   - **Soft Grey (#D2D2CF)**: Used to minimizes visual strain and keeps focus on the form elements.
-  ![alt text](image-4.png)
+![alt text](image-4.png)
 
   - **Dark (#111111)**: Used for high contrast to ensure readability for all ages and devices.
-  ![alt text](image-3.png)
+![alt text](image-3.png)
 
 - **Admin Interface**:
   - **Clean Neutral White (#FFFFFF)**: Provides maximum clarity for table-heavy data screens.
-  ![alt text](image-5.png)
+![alt text](image-5.png)
 
   - **Table Heder Grey (#E6EEF8)**: Subtle separation for structure and scanning.
-  ![alt text](image-6.png)
+![alt text](image-6.png)
 
   - **Deep Bright Red (#B10000)**: Used exclusively for critical triage levels.
-  ![alt text](image-8.png)
+![alt text](image-8.png)
 
   - **Green (#3CB371)**: Used to signal successful actions and stable patient status.
-  ![alt text](image-7.png)
+![alt text](image-7.png)
 
   - **Yellow (#FFD700)**: Used for communicates caution.
-  ![alt text](image-9.png)
+![alt text](image-9.png)
 
 ## App Components
 - **Titles**: "Grey Sloan Memorial - User" for the patient interface and "Grey Sloan Memorial - Admin" for the administrative interface, prominently displayed in Arial.
