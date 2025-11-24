@@ -65,6 +65,8 @@ The Hospital Triage App will provide an intuitive interface for both patients an
 - Navigation is kept simple and predictable:
   - On mobile, a fixed bottom action bar is used to keep essential actions within thumb reach.
   - On desktop and larger screens, a structured top navigation bar organizes key sections clearly, providing hospital-grade efficiency and reducing cognitive loads.
+![alt text](image-10.png)
+![alt text](image-11.png)
 
 ## Consistency
 - A shared component library (buttons, cards, forms, alerts).
@@ -79,6 +81,8 @@ The Hospital Triage App will provide an intuitive interface for both patients an
     - Severity indicators
     - Selected patient details
     - Priority-adjustment controls.
+![alt text](image-12.png)
+![alt text](image-13.png)
 
 ## Functionality
 - The Grey Sloan Memorial triage app is designed to handle high-pressure emergency situations efficiently.
