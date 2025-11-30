@@ -16,7 +16,7 @@ It allows the system to keep the history of changes (eg a patient's attention le
 
 Attributes Specification
 
-Patient Attributes
+Patient Attributes:
 - 'patient_id' (integer): Unique patient identifier for each record 
 - 'code' (varchar): A three-letter code that identifies the patient in the UI. 
 - 'name'(varchar): The full names of the patients 
