@@ -51,3 +51,4 @@ Action_Logs Attributes:
 
 ![Database scehma](schema.png))
 
+The ERD illustrates the relationships between the entities in the Grey Sloan Memorial triage system. The Patients entity is linked to the Priorities entity through a foreign key that defines each patient’s current urgency level, and it connects to the Action_Logs entity to record all administrative actions performed on that patient throughout the triage process.
